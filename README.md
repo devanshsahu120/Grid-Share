@@ -17,8 +17,17 @@
 - REST APIs
 
 ## 📸 Screenshots
-![Dashboard](images/dashboard.png)
-![Battery](images/battery.png)
+![Screenshot1](WhatsApp%20Image%202026-05-23%20at%2013.52.44%20(1).jpeg)
+
+![Screenshot2](WhatsApp%20Image%202026-05-23%20at%2013.52.44.jpeg)
+
+![Screenshot3](WhatsApp%20Image%202026-05-23%20at%2013.52.45%20(1).jpeg)
+
+![Screenshot4](WhatsApp%20Image%202026-05-23%20at%2013.52.45%20(3).jpeg)
+
+![Screenshot5](WhatsApp%20Image%202026-05-23%20at%2013.52.45.jpeg)
+
+![Screenshot6](WhatsApp%20Image%202026-05-23%20at%2013.52.46.jpeg)
 
 ## 👨‍💻 Developer
 Devansh Sahu
