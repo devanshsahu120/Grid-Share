@@ -2,8 +2,9 @@
 
 ## 🎥 Project Demo
 
-[![Watch Demo](images/dashboard.png)](WhatsApp%20Video%202026-05-23%20at%2013.51.29.mp4)
+## 🎥 Project Demo
 
+👉 [Click here to watch demo video](WhatsApp%20Video%202026-05-23%20at%2013.51.29.mp4)
 ## 📌 Features
 - Operator Login
 - Complaint Logging
