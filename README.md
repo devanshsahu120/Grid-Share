@@ -1,7 +1,8 @@
 # ⚡ Smart Grid Android App
 
-## 📱 Project Demo
-![App Demo](images/app_demo.png)
+## 🎥 Project Demo
+
+[![Watch Demo](images/dashboard.png)](WhatsApp%20Video%202026-05-23%20at%2013.51.29.mp4)
 
 ## 📌 Features
 - Operator Login
