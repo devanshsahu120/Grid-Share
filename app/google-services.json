@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "994630324473",
+    "firebase_url": "https://grid-ae0c9-default-rtdb.firebaseio.com",
+    "project_id": "grid-ae0c9",
+    "storage_bucket": "grid-ae0c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994630324473:android:06d6c90a1c091aa44c5228",
+        "android_client_info": {
+          "package_name": "com.example.sih"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4blEiVOfEbTrRp30KqQDJNvwN00x0hug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

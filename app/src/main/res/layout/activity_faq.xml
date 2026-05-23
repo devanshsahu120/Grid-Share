@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/faq"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Header -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="45sp"
+            android:textStyle="bold"
+            android:textColor="#1A237E"
+            android:gravity="center"
+            android:paddingBottom="16dp" />
+
+        <!-- FAQ 1 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. I can’t log in to my account. What should I do?"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#FFFFFF"
+            android:paddingTop="8dp"
+            android:paddingBottom="4dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Check internet connection\n- Verify username and password\n- Make sure Caps Lock is off"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="12dp"
+            android:paddingBottom="10dp" />
+
+        <!-- FAQ 2 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2. I forgot my password. How can I reset it?"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#FFFFFF"
+            android:paddingTop="8dp"
+            android:paddingBottom="4dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Tap 'Forgot Password' on login screen\n- Enter your registered email or number\n- Follow the link or OTP to reset password"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="12dp"
+            android:paddingBottom="10dp" />
+
+        <!-- FAQ 3 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3. I’m getting “Invalid Credentials.”"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#FFFFFF"
+            android:paddingTop="8dp"
+            android:paddingBottom="4dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Check username spelling and spaces\n- Reset password if unsure\n- Contact admin if issue continues"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="12dp"
+            android:paddingBottom="10dp" />
+
+        <!-- FAQ 5 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4. The app says “Server not reachable.”"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#FFFFFF"
+            android:paddingTop="8dp"
+            android:paddingBottom="4dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Check your Wi-Fi or data connection\n- Disable battery saver mode\n- Try again after a few minutes"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="12dp"
+            android:paddingBottom="10dp" />
+
+        <!-- FAQ 6 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5. My account is temporarily locked."
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#FFFFFF"
+            android:paddingTop="8dp"
+            android:paddingBottom="4dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Wait 10–15 minutes\n- Avoid repeated failed logins\n- Contact support to unlock if needed"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="12dp"
+            android:paddingBottom="10dp" />
+
+        <!-- FAQ 7 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="6. I logged in but dashboard is blank."
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#FFFFFF"
+            android:paddingTop="8dp"
+            android:paddingBottom="4dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- Wait for data to sync\n- Pull to refresh\n- Verify you are logged in as the correct role"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="12dp"
+            android:paddingBottom="10dp" />
+
+        <!-- FAQ 8 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="7. I’m unable to log out or switch accounts."
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#FFFFFF"
+            android:paddingTop="8dp"
+            android:paddingBottom="4dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="- If stuck, clear app data or reinstall\n- Ensure you are on the latest version"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="12dp"
+            android:paddingBottom="10dp" />
+
+        <!-- Support Info -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Need more help?"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:paddingTop="16dp"
+            android:paddingBottom="4dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📧 support@communitygrid.com\n☎️ +91-7649011224"
+            android:textSize="15sp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="12dp"
+            android:paddingBottom="20dp" />
+
+    </LinearLayout>
+</ScrollView>

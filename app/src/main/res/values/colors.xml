@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Sun">#B8C807</color>
+    <!-- Primary App Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- Custom App Colors -->
+    <color name="background_color">#FFF5F5F5</color>
+    <color name="text_primary">#FF212121</color>
+    <color name="text_secondary">#FF757575</color>
+
+    <!-- Button Colors -->
+    <color name="camera_color">#FF2196F3</color>
+    <color name="camera_bg">#FFF3F8FF</color>
+
+    <color name="messages_color">#FF4CAF50</color>
+    <color name="messages_bg">#FFF1F8E9</color>
+
+    <color name="contacts_color">#FF9C27B0</color>
+    <color name="contacts_bg">#FFF8E6FF</color>
+
+    <color name="settings_color">#FF607D8B</color>
+    <color name="settings_bg">#FFF5F7FA</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#FF6366F1</color>
+    <color name="gradient_middle">#FFA855F7</color>
+    <color name="gradient_end">#FFEC4899</color>
+</resources>
