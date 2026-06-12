@@ -14,7 +14,7 @@
 - Weekly Predictions
 
 ## 🛠️ Tech Stack
-- Android (Java/Kotlin)
+- Android (Java)
 - Firebase / MySQL
 - REST APIs
 
