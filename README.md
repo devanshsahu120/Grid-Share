@@ -11,7 +11,7 @@
 - Solar Production Monitoring
 - Energy Consumption Tracking
 - Battery Status
-- Weekly Predictions
+- Weekly Prediction
 
 ## 🛠️ Tech Stack
 - Android (Java)
